@@ -14,8 +14,7 @@ namespace BTLWebForm.User
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (!IsPostBack)
-            {
+            
                Product product = (Product)Session["product"];
                 product_id.Text = product.product_id.ToString();
                 product_name.Text = product.product_name.ToString();
@@ -24,7 +23,7 @@ namespace BTLWebForm.User
                 image.ImageUrl = "~/wwwroot/img/img_product/" + product.image.ToString();
                 txtQuantity.Text = "1";
                 DataBind();
-            }
+            
         }
 
         
@@ -57,6 +56,7 @@ namespace BTLWebForm.User
         {
             int quantity = int.Parse((txtQuantity.Text).ToString());
             message.Text = "áhdashd";
+            Response.Redirect("Home.aspx");
         }
 
 

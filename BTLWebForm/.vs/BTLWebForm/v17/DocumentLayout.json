@@ -3,15 +3,7 @@
   "WorkspaceRootPath": "D:\\Documents\\TMDT\\BTL\\BTLWebForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD116E91-5952-410A-A13E-8A625874C4AC}|BTLWebForm\\BTLWebForm.csproj|D:\\Documents\\TMDT\\BTL\\BTLWebForm\\btlwebform\\user\\detailproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD116E91-5952-410A-A13E-8A625874C4AC}|BTLWebForm\\BTLWebForm.csproj|solutionrelative:btlwebform\\user\\detailproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD116E91-5952-410A-A13E-8A625874C4AC}|BTLWebForm\\BTLWebForm.csproj|d:\\documents\\tmdt\\btl\\btlwebform\\btlwebform\\user\\detailproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{BD116E91-5952-410A-A13E-8A625874C4AC}|BTLWebForm\\BTLWebForm.csproj|solutionrelative:btlwebform\\user\\detailproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD116E91-5952-410A-A13E-8A625874C4AC}|BTLWebForm\\BTLWebForm.csproj|D:\\Documents\\TMDT\\BTL\\BTLWebForm\\btlwebform\\user\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{BD116E91-5952-410A-A13E-8A625874C4AC}|BTLWebForm\\BTLWebForm.csproj|d:\\documents\\tmdt\\btl\\btlwebform\\btlwebform\\user\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{BD116E91-5952-410A-A13E-8A625874C4AC}|BTLWebForm\\BTLWebForm.csproj|solutionrelative:btlwebform\\user\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -19,8 +11,31 @@
       "RelativeMoniker": "D:0:0:{BD116E91-5952-410A-A13E-8A625874C4AC}|BTLWebForm\\BTLWebForm.csproj|solutionrelative:btlwebform\\user\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BD116E91-5952-410A-A13E-8A625874C4AC}|BTLWebForm\\BTLWebForm.csproj|D:\\Documents\\TMDT\\BTL\\BTLWebForm\\btlwebform\\admin\\productmanagement\\createproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD116E91-5952-410A-A13E-8A625874C4AC}|BTLWebForm\\BTLWebForm.csproj|solutionrelative:btlwebform\\admin\\productmanagement\\createproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD116E91-5952-410A-A13E-8A625874C4AC}|BTLWebForm\\BTLWebForm.csproj|D:\\Documents\\TMDT\\BTL\\BTLWebForm\\btlwebform\\user\\datautiluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD116E91-5952-410A-A13E-8A625874C4AC}|BTLWebForm\\BTLWebForm.csproj|solutionrelative:btlwebform\\user\\datautiluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BTLWebForm||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD116E91-5952-410A-A13E-8A625874C4AC}|BTLWebForm\\BTLWebForm.csproj|D:\\Documents\\TMDT\\BTL\\BTLWebForm\\btlwebform\\user\\detailproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD116E91-5952-410A-A13E-8A625874C4AC}|BTLWebForm\\BTLWebForm.csproj|solutionrelative:btlwebform\\user\\detailproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD116E91-5952-410A-A13E-8A625874C4AC}|BTLWebForm\\BTLWebForm.csproj|D:\\Documents\\TMDT\\BTL\\BTLWebForm\\btlwebform\\user\\detailproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BD116E91-5952-410A-A13E-8A625874C4AC}|BTLWebForm\\BTLWebForm.csproj|solutionrelative:btlwebform\\user\\detailproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD116E91-5952-410A-A13E-8A625874C4AC}|BTLWebForm\\BTLWebForm.csproj|D:\\Documents\\TMDT\\BTL\\BTLWebForm\\btlwebform\\admin\\productmanagement\\createproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BD116E91-5952-410A-A13E-8A625874C4AC}|BTLWebForm\\BTLWebForm.csproj|solutionrelative:btlwebform\\admin\\productmanagement\\createproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD116E91-5952-410A-A13E-8A625874C4AC}|BTLWebForm\\BTLWebForm.csproj|D:\\Documents\\TMDT\\BTL\\BTLWebForm\\btlwebform\\usermasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{BD116E91-5952-410A-A13E-8A625874C4AC}|BTLWebForm\\BTLWebForm.csproj|solutionrelative:btlwebform\\usermasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +45,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateProduct.aspx",
+              "DocumentMoniker": "D:\\Documents\\TMDT\\BTL\\BTLWebForm\\BTLWebForm\\Admin\\ProductManagement\\CreateProduct.aspx",
+              "RelativeDocumentMoniker": "BTLWebForm\\Admin\\ProductManagement\\CreateProduct.aspx",
+              "ToolTip": "D:\\Documents\\TMDT\\BTL\\BTLWebForm\\BTLWebForm\\Admin\\ProductManagement\\CreateProduct.aspx",
+              "RelativeToolTip": "BTLWebForm\\Admin\\ProductManagement\\CreateProduct.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-08T00:39:33.641Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -42,20 +70,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "BTLWebForm",
+              "DocumentMoniker": "D:\\Documents\\TMDT\\BTL\\BTLWebForm\\BTLWebForm\\BTLWebForm.csproj",
+              "RelativeDocumentMoniker": "BTLWebForm\\BTLWebForm.csproj",
+              "ToolTip": "D:\\Documents\\TMDT\\BTL\\BTLWebForm\\BTLWebForm\\BTLWebForm.csproj",
+              "RelativeToolTip": "BTLWebForm\\BTLWebForm.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-08T02:29:25.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProduct.aspx.cs",
+              "DocumentMoniker": "D:\\Documents\\TMDT\\BTL\\BTLWebForm\\BTLWebForm\\Admin\\ProductManagement\\CreateProduct.aspx.cs",
+              "RelativeDocumentMoniker": "BTLWebForm\\Admin\\ProductManagement\\CreateProduct.aspx.cs",
+              "ToolTip": "D:\\Documents\\TMDT\\BTL\\BTLWebForm\\BTLWebForm\\Admin\\ProductManagement\\CreateProduct.aspx.cs",
+              "RelativeToolTip": "BTLWebForm\\Admin\\ProductManagement\\CreateProduct.aspx.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:39:42.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataUtilUser.cs",
+              "DocumentMoniker": "D:\\Documents\\TMDT\\BTL\\BTLWebForm\\BTLWebForm\\User\\DataUtilUser.cs",
+              "RelativeDocumentMoniker": "BTLWebForm\\User\\DataUtilUser.cs",
+              "ToolTip": "D:\\Documents\\TMDT\\BTL\\BTLWebForm\\BTLWebForm\\User\\DataUtilUser.cs",
+              "RelativeToolTip": "BTLWebForm\\User\\DataUtilUser.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:57:55.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserMasterPage.Master",
+              "DocumentMoniker": "D:\\Documents\\TMDT\\BTL\\BTLWebForm\\BTLWebForm\\UserMasterPage.Master",
+              "RelativeDocumentMoniker": "BTLWebForm\\UserMasterPage.Master",
+              "ToolTip": "D:\\Documents\\TMDT\\BTL\\BTLWebForm\\BTLWebForm\\UserMasterPage.Master",
+              "RelativeToolTip": "BTLWebForm\\UserMasterPage.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-08T00:25:17.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DetailProduct.aspx.cs",
               "DocumentMoniker": "D:\\Documents\\TMDT\\BTL\\BTLWebForm\\BTLWebForm\\User\\DetailProduct.aspx.cs",
               "RelativeDocumentMoniker": "BTLWebForm\\User\\DetailProduct.aspx.cs",
               "ToolTip": "D:\\Documents\\TMDT\\BTL\\BTLWebForm\\BTLWebForm\\User\\DetailProduct.aspx.cs",
               "RelativeToolTip": "BTLWebForm\\User\\DetailProduct.aspx.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAAC4AAAAVAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwCsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T07:35:35.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T07:35:35.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "DetailProduct.aspx",
               "DocumentMoniker": "D:\\Documents\\TMDT\\BTL\\BTLWebForm\\BTLWebForm\\User\\DetailProduct.aspx",
               "RelativeDocumentMoniker": "BTLWebForm\\User\\DetailProduct.aspx",
@@ -63,12 +137,11 @@
               "RelativeToolTip": "BTLWebForm\\User\\DetailProduct.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-07T07:22:51.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T07:22:51.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Home.aspx.cs",
               "DocumentMoniker": "D:\\Documents\\TMDT\\BTL\\BTLWebForm\\BTLWebForm\\User\\Home.aspx.cs",
               "RelativeDocumentMoniker": "BTLWebForm\\User\\Home.aspx.cs",
@@ -76,25 +149,11 @@
               "RelativeToolTip": "BTLWebForm\\User\\Home.aspx.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAAABwAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T06:12:00.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T06:12:00.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DataUtilUser.cs",
-              "DocumentMoniker": "D:\\Documents\\TMDT\\BTL\\BTLWebForm\\BTLWebForm\\User\\DataUtilUser.cs",
-              "RelativeDocumentMoniker": "BTLWebForm\\User\\DataUtilUser.cs",
-              "ToolTip": "D:\\Documents\\TMDT\\BTL\\BTLWebForm\\BTLWebForm\\User\\DataUtilUser.cs",
-              "RelativeToolTip": "BTLWebForm\\User\\DataUtilUser.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAgwCAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T05:57:55.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Home.aspx",
               "DocumentMoniker": "D:\\Documents\\TMDT\\BTL\\BTLWebForm\\BTLWebForm\\User\\Home.aspx",
               "RelativeDocumentMoniker": "BTLWebForm\\User\\Home.aspx",

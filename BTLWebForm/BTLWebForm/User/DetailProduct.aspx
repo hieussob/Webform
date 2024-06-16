@@ -139,6 +139,9 @@
                                 <asp:ListItem Text="XL" Value="XL"></asp:ListItem>
                             </asp:DropDownList>
                         </div>
+                       
+
+                        
                         <div class="product_variant quantity">
 
                             <label>quantity</label>
@@ -151,6 +154,7 @@
                                 OnCommand="GioHang_Click" runat="server" />
 
                         <asp:Button runat="server" ID="btnThem" Text="Thêm" OnClick="Them_Click" CssClass="btn btn-success" />
+                            
                         
                         <div class=" product_d_action">
                             <ul>
